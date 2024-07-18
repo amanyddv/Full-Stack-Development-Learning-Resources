@@ -1,4 +1,4 @@
-# Full Stack Development Learning Resources
+# Frontend Development Learning Resources
 
 ## HTML
 - Cheat Sheet: [HTML Cheat Sheet](https://cdn.hostinger.com/tutorials/pdf/HTML-Cheatsheet.pdf)
